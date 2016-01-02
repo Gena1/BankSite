@@ -54,7 +54,6 @@
     <Compile Include="ApplicationDetailsValidatorTests.cs" />
     <Compile Include="ApplicationScoringSubsystemTests.cs" />
     <Compile Include="CreditCheckerGatewayTests.cs" />
-    <Compile Include="CreditCardApplicationServiceTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Service References\CreditCardApplicationServiceReference\Reference.cs">
       <AutoGen>True</AutoGen>
@@ -89,7 +88,9 @@
       <Name>BankingSite</Name>
     </ProjectReference>
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Service Include="{82A7F48D-3B50-4B1E-B82E-3ADA8210C358}" />
+  </ItemGroup>
   <ItemGroup>
     <WCFMetadataStorage Include="Service References\CreditCardApplicationServiceReference\" />
   </ItemGroup>
