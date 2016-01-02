@@ -1,0 +1,10 @@
+D:\MyProject\BankingSite\BankingSite.UITests\bin\Debug\BankingSite.UITests.dll
+D:\MyProject\BankingSite\BankingSite.UITests\bin\Debug\BankingSite.UITests.pdb
+D:\MyProject\BankingSite\BankingSite.UITests\bin\Debug\Interop.SHDocVw.dll
+D:\MyProject\BankingSite\BankingSite.UITests\bin\Debug\nunit.framework.dll
+D:\MyProject\BankingSite\BankingSite.UITests\bin\Debug\WatiN.Core.dll
+D:\MyProject\BankingSite\BankingSite.UITests\bin\Debug\nunit.framework.xml
+D:\MyProject\BankingSite\BankingSite.UITests\bin\Debug\WatiN.Core.xml
+D:\MyProject\BankingSite\BankingSite.UITests\obj\Debug\BankingSite.UITests.csprojResolveAssemblyReference.cache
+D:\MyProject\BankingSite\BankingSite.UITests\obj\Debug\BankingSite.UITests.dll
+D:\MyProject\BankingSite\BankingSite.UITests\obj\Debug\BankingSite.UITests.pdb
