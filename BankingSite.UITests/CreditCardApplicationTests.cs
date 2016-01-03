@@ -46,8 +46,9 @@ namespace BankingSite.UITests
             {
                 // Leave the browser open after the test completes
                 // to see what's happened for demo purposes
-                BrowserDemoHelper.BringToFront(browser);
                 browser.AutoClose = false;
+                BrowserDemoHelper.BringToFront(browser);
+                
 
                 browser.TextField(Find.ById("Name")).TypeText("Jason");
                 browser.TextField(Find.ById("Age")).TypeText("30");
